@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- * void print_alphabet_x10 - Print alphabet
- * Descritpion - Print alphabet 10x
+ * print_alphabet_x10 - Print alphabet
+ * Description - Print alphabet ten times
  *
  * Return: Nothing
  */
+
 void print_alphabet_x10(void)
 {
 	char alpha;
