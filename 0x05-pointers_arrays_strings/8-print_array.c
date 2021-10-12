@@ -17,7 +17,7 @@ void print_array(int *a, int n)
 			interger = *(a + i);
 			printf("%d", interger);
 
-			if (i != n - i)
+			if (i != n - 1)
 				printf(", ");
 		}
 	printf("\n");
