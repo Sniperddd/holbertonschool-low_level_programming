@@ -3,7 +3,6 @@
  * print_sign - Print sign
  * Description - Print sign number
  * @n: parameter
- *
  * Return: if 1 is + --> 0 print 0 and -1 print /
  */
 
