@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * reverse_array - reverse content
+ * reverse_array - reverse --> ontent
  *@a: pointer array
  *@n: interger value
  */
 void reverse_array(int *a, int n)
 {
-	int b;
-	int c;
+	int b = 0;
+	int c = 0;
 	int temp;
 
 	c = n - 1;
