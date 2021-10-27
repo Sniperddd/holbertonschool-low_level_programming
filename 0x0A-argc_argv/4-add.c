@@ -5,7 +5,7 @@
  *main - Entry point
  *@argc: count of args present
  *@argv: array of char * pointing to args
- *Return: return 1 error if not return 0;
+ *Return: Always 0
  */
 
 int main(int argc, char *argv[])
