@@ -3,6 +3,7 @@
 #include "main.h"
 /**
  *main - Entry point
+ *
  *@argc: count of args present
  *@argv: array of char * pointing to args
  *Return: Always 0
