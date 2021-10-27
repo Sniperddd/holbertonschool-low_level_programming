@@ -1,13 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
+
 /**
- *main - entry point for program
+ * main - entry point for program
  *
  *@argc: count of args present
  *@argv: array of char * pointing to args
  *
- *Return: always 0 (success)
+ * Return: always 0 (success)
  */
 
 int main(int argc, char *argv[])
