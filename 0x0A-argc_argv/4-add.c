@@ -2,10 +2,12 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- *main - Entry point
+ *main - entry point for program
+ *
  *@argc: count of args present
- *@argv: array of char 
- *Return: Always 0
+ *@argv: array of char * pointing to args
+ *
+ *Return: always 0 (success)
  */
 
 int main(int argc, char *argv[])
