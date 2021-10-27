@@ -3,9 +3,9 @@
 #include "main.h"
 /**
  *main - Entry point
- *@argc: register number
- *@argv: container number
- *Return: return 1 error if not 0;
+ *@argc: count of args present
+ *@argv: array of char * pointing to args
+ *Return: return 1 error if not return 0;
  */
 
 int main(int argc, char *argv[])
