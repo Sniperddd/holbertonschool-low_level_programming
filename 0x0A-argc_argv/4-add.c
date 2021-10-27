@@ -4,7 +4,7 @@
 /**
  *main - Entry point
  *@argc: count of args present
- *@argv: array of char * pointing to args
+ *@argv: array of char 
  *Return: Always 0
  */
 
