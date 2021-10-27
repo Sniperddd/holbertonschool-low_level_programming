@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
 /**
  *main - Entry point
  *@argc: register number
  *@argv: container number
- * Return: return 1 error if not 0;
+ *Return: return 1 error if not 0;
  */
 
 int main(int argc, char *argv[])
