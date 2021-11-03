@@ -13,3 +13,4 @@ void free_dog(dog_t *d)
 		free(d);
 		d = NULL;/* d pointer no dangling */
 	}
+}
