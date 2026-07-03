@@ -80,7 +80,7 @@ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 *.c -o executable
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lOG5rMjBxNTY2dHNudTVxM24wbTNrNXg4ZzI3ZnM0b2IxdnpvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz2yY5F8yq4mY/giphy.gif" width="350" alt="C Code Matrix GIF" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" alt="Hacker Terminal GIF" />
   <br>
   <sub><b>Memory leaks are temporary. Segmentation faults are forever.</b> 🚀</sub>
 </div>
